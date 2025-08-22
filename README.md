@@ -575,6 +575,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.repl.it/">🌎 <b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
 &nbsp;&nbsp; <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;11443⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;468🍴</code></b> <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
+&nbsp;&nbsp; <a href="https://labex.io/learn">🌎 <b>LabEx</b></a> - interactive hands-on labs and skill trees covering Linux, DevOps, cybersecurity, cloud computing, data science, and programming. Learn through real-world scenarios with step-by-step guidance.<br>
 </p>
 
 ##### :black_small_square: Performance
