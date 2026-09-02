@@ -430,6 +430,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://wire.com/en/">🌎 <b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1000⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;277🍴</code></b> <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp; <a href="https://matrix.org/">🌎 <b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
+   <a href="https://keet.io"> 🌎 <b>Keet</b></a> - a rdp private federated messaging, phone, video app, real-time comms, peer to peer.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -3633,7 +3634,6 @@ nc 192.168.0.1 5051 < filename.in
 ```
 
   * `< filename.in` - send data to remote host
-
 ```bash
 nc -vz 10.240.30.3 5000
 ```
