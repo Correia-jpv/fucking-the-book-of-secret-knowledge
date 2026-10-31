@@ -377,6 +377,7 @@ Only main chapters:
 &nbsp;&nbsp;  <b><code>&nbsp;28447⭐</code></b> <b><code>&nbsp;&nbsp;1790🍴</code></b> <a href="https://github.com/tj/commander.js"><b>commander.js</b></a></a> - minimal CLI creator in JavaScript.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;14532⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;347🍴</code></b> <a href="https://github.com/tomnomnom/gron"><b>gron</b></a></a> - make JSON greppable!<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1344⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;51🍴</code></b> <a href="https://github.com/itchyny/bed"><b>bed</b></a></a> - binary editor written in Go.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;912⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;23🍴</code></b> <a href="https://github.com/vostride/agent-qa"><b>agent-qa</b></a> - natural-language regression testing for web, Android, and iOS with advanced memidex memory and self-improvement.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
